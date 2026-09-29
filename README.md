@@ -17,7 +17,7 @@ How the Program Works:
 2-Then it takes the current time from the computer and compares it with the alarm time.
 3-If the time matches, it prints:time to take a break!
 4-After that, the alarm beeps 5 times.
-5-Main Things Used in the Code
+5-Main Things Used in the Code:
             datetime – to get the current time.
             time – to wait for one second before checking again.
             winsound – to make the beep sound.
